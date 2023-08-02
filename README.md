@@ -1,6 +1,5 @@
-
-
-Quick start:
+<pre>
+    Quick start:
 
 ```
 $ npm install
@@ -15,3 +14,6 @@ export const process = {
 }
 
 Happy Coding!
+            </pre>
+
+
